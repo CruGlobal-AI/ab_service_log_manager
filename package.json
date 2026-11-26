@@ -6,7 +6,7 @@
    "author": "Johnny Hausman",
    "license": "MIT",
    "dependencies": {
-      "@digiserve/ab-utils": "github:CruGlobal/ab-utils#1.11.1",
+      "@digiserve/ab-utils": "github:CruGlobal-AI/ab-utils#1.11.1",
       "@sentry/node": "^7.10.0",
       "@sentry/tracing": "^7.10.0",
       "cote": "^1.2.0",
